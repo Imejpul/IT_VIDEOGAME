@@ -1,2 +1,2 @@
 # IT_VIDEOGAME
-Videogame of technical English on Egibide
+Videogame for technical English on Egibide
