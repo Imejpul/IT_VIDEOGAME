@@ -1,2 +1,2 @@
 # IT_VIDEOGAME
-Videogame for technical English on Egibide
+Videogame for "Technical English" subject on Egibide. (DAM - Desarrollo de aplicaciones multiplataforma).
